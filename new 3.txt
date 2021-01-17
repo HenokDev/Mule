@@ -1,0 +1,9 @@
+Select Name From CGI_CRM.S_ORG_EXT where Name= 
+:AccountName
+
+{AccountName: vars.AccountName
+
+}
+1,792.00
+
+-M-XX:-UseBiasedLocking
